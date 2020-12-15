@@ -25,7 +25,7 @@ const IndexPage = () => (
         email={config.email}
         socialLinks={config.socialLinks}
       >
-      Sou desenvolvedor junior me empolgo com tecnologias desde sempre e gosto de estudar e sempre descobrir coisas novas, 
+      Sou desenvolvedor júnior e entusiasta de tecnologias desde sempre, gosto de estudar e sempre descobrir coisas novas, 
       atualmente trabalho com C#, Html, Css e um pouco de Db em Sql Server, como estagiário da área de desenvolvimento
       </Resume>
 

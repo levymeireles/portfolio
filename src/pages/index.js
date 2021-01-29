@@ -25,8 +25,9 @@ const IndexPage = () => (
         email={config.email}
         socialLinks={config.socialLinks}
       >
-      Sou desenvolvedor júnior e entusiasta de tecnologias desde sempre, gosto de estudar e sempre descobrir coisas novas, 
-      atualmente trabalho com C#, Html, Css e um pouco de Db em Sql Server, como estagiário da área de desenvolvimento
+      Sou Desenvolvedor Júnior I e entusiasta de tecnologias desde sempre. Gosto de estudar e sempre descobrir coisas novas me atualizando dentro das novidades, 
+      atualmente utilizo: C#, HTML, CSS, AngularJS, JavaScript, Json e DataBase utilizando Microsoft SQL Server em meu trabalho. Procuro sempre estar antenado e atualizando
+      dentro das tecnologias que utilizo e aprimorar as quais eu ainda não domino muito.
       </Resume>
 
       <hr className="m-0" />

@@ -1,11 +1,6 @@
 {
-  "name": "gatsby-starter-resume",
-  "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Resume by startbootstrap",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-resume.git"
-  },
+  "name": "portfolio-levy",
+  "version": "1.0.0",
   "author": {
     "name": "Levy Santos",
     "email": "levymeireles518@gmail.com"
@@ -38,15 +33,5 @@
     "gh-pages": "^2.0.1",
     "prettier": "^1.17.0",
     "rimraf": "^3.0.2"
-  },
-  "keywords": [
-    "gatsby",
-    "gatsby-starter",
-    "gatsby-starter-resume"
-  ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-resume/issues"
-  },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-resume#readme"
+  }
 }

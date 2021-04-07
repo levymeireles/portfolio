@@ -12,6 +12,7 @@ import Education from '../components/sections/Education';
 import Skills from '../components/sections/Skills';
 import Interests from '../components/sections/Interests';
 import Awards from '../components/sections/Awards';
+import Projects from '../components/sections/Projects';
 
 const IndexPage = () => (
   <Layout>
@@ -20,13 +21,12 @@ const IndexPage = () => (
       <Resume
         firstName={config.firstName}
         lastName={config.lastName}
-        address={config.address}
         phone={config.phone}
         email={config.email}
         socialLinks={config.socialLinks}
       >
       Sou Desenvolvedor Júnior e entusiasta de tecnologias desde sempre. Gosto de estudar e descobrir coisas novas me atualizando dentro das novidades, 
-      atualmente utilizo: C#, HTML, CSS, AngularJS, JavaScript, Json e DataBase utilizando Microsoft SQL Server em meu trabalho. Procuro sempre estar antenado e atualizando
+      atualmente utilizo: C#, HTML, CSS, AngularJS, JavaScript, Json e DataBase utilizando Microsoft SQL Server em meu trabalho. Procuro sempre estar antenado e atualizado
       dentro das tecnologias que utilizo e aprimorar as quais eu ainda não domino muito.
       </Resume>
 
@@ -49,6 +49,10 @@ const IndexPage = () => (
       <hr className="m-0" />
 
       <Awards/>
+
+      <hr className="m-0" />
+
+      <Projects/>
       
     </div>
   </Layout>

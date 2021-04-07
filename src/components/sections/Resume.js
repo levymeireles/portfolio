@@ -13,10 +13,10 @@ const Resume = ({firstName, lastName, phone, email, socialLinks, children}) => {
                     <span className="text-primary">{lastName}</span>
                 </h1>
                 <div className="subheadingWhite mb-5">
-                    <a href="https://api.whatsapp.com/send?phone=5519988347204&text=Ol%C3%A1%20acessei%20seu%20portfolio%20online%2C%20gostaria%20de%20falar%20com%20voc%C3%AA">{phone}</a> · 
+                    <a href="https://api.whatsapp.com/send?phone=5519988347204&text=Ol%C3%A1%20acessei%20seu%20portfolio%20online%2C%20gostaria%20de%20falar%20com%20voc%C3%AA">{phone}</a> ·  
                     <a href={`mailto:${email}`}>{email}</a>
                 </div>
-                
+
                 <p className="lead mb-5">{ children }</p>
 
                 <div className="social-icons">

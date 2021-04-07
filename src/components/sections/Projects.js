@@ -12,8 +12,8 @@ const Projects = () => {
                 
                 <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
                     <div className="resume-content">
-                        <h3 className="mb-0">Visualizar repositórios e issues</h3>
-                        <div className="subheading mb-3">Visualizar repositórios</div>
+                        <h3 className="mb-0">Visualizar repositórios e issues do GitHub</h3>
+                        <a className="subheading mb-3" href="https://repositories-list.vercel.app/">Visualizar repositórios</a>
                     </div>
                 </div>
             </div>

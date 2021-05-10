@@ -28,27 +28,27 @@ const Awards = () => {
                     <li>
                         <br/>
                         <div className="subheading mb-3">Cursos de aperfeiçoamento profissional</div>
-                        <i className="fa-li fa fa-trophy text-warning"></i>
+                        <i className="fa-li fa fa-book text-info"></i>
                         Desvendando a Blockchain – SENAI 509 – Duração: 20 horas
                     </li>
                     <li>
-                        <i className="fa-li fa fa-trophy text-warning"></i>
+                        <i className="fa-li fa fa-book text-info"></i>
                         Propriedade Intelectual – SENAI 509 – Duração: 14 horas
                     </li>
                     <li>
-                        <i className="fa-li fa fa-trophy text-warning"></i>
+                        <i className="fa-li fa fa-book text-info"></i>
                         Tecnologia da Informação e Comunicação – SENAI 509 – Duração: 14 horas
                     </li>
                     <li>
-                        <i className="fa-li fa fa-trophy text-warning"></i>
+                        <i className="fa-li fa fa-book text-info"></i>
                         Empreender SENAI – SENAI 509 – Duração: 20 horas
                     </li>
                     <li>
-                        <i className="fa-li fa fa-trophy text-warning"></i>
+                        <i className="fa-li fa fa-book text-info"></i>
                         Finanças Pessoais – SENAI 509 – Duração: 14 horas
                     </li>
                     <li>
-                        <i className="fa-li fa fa-trophy text-warning"></i>
+                        <i className="fa-li fa fa-book text-info"></i>
                         Certificado de proficiência da Microsoft
                     </li>   
                 </ul>

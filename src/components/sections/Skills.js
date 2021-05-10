@@ -51,6 +51,9 @@ const Education = () => {
                     <li className="list-inline-item">
                         <i className="fab fa-npm" title="Npm"></i>
                     </li>
+                    <li className="list-inline-item">
+                        <i className="fab fa-react" title="ReactJS"></i>
+                    </li>
                 </ul>
 
                 <div className="subheading mb-3">Workflow</div>
@@ -66,6 +69,14 @@ const Education = () => {
                     <li>
                         <i className="fa-li fa fa-check"></i>
                         XP &amp; Debugging
+                    </li>
+                    <li>
+                        <i className="fa-li fa fa-check"></i>
+                        MVP &amp; .NET
+                    </li>
+                    <li>
+                        <i className="fa-li fa fa-check"></i>
+                        POO &amp; SQL
                     </li>
                 </ul>
             </div>

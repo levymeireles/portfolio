@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Scrollspy from 'react-scrollspy';
 import Scroll from './Scroll';
 
-import avatar from '../assets/images/avatar.png';
+import avatar from '../assets/images/PicturePortfolio.png';
 import config from '../../config';
 
 export class Sidebar extends Component {
@@ -12,7 +12,7 @@ export class Sidebar extends Component {
       tabs: [
         { content: 'Sobre', href: 'about' },
         { content: 'Experiência', href: 'experience' },
-        { content: 'Educação', href: 'education' },
+        { content: 'Formação', href: 'formation ' },
         { content: 'Habilidades', href: 'skills' },
         { content: 'Interesses', href: 'interests' },
         { content: 'Premiações', href: 'awards' },
@@ -37,16 +37,17 @@ export class Sidebar extends Component {
         id="sideNav"
       >
         <a className="navbar-brand" href="#page-top">
-          <span className="d-block d-lg-none">
-            {config.firstName} {config.lastName}
-          </span>
           <span className="d-none d-lg-block">
             <img
               className="img-fluid img-profile rounded-circle border-dark mx-auto mb-2"
               src={avatar}
               alt=""
             />
+            {/* <span className="d-block d-lg-block spanName">
+              {config.firstName} {config.lastName}
+            </span> */}
           </span>
+          
         </a>
         <button
           className={`navbar-toggler navbar-toggler-right ${

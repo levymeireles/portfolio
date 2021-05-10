@@ -11,12 +11,12 @@ const Interests = () => {
             <div className="w-100">
                 <h2 className="mb-5">Interesses</h2>
                 <p>
-                    Além de desenvolvedor sou grande amante dos avanços tecnológicos e desde sempre gostei de computadores e afins
-                    hoje em dia sou entusiasta da tecnologia e acompanho a área de exploração espacial e de smartphones.
+                    Além de desenvolvedor, acompanho as evoluções de tecnologias assim como gosto de conteúdos e da cultura geek. Sou um bom aprecidador e amante
+                    de café.
                 </p>
                 <p className="mb-0">
                     No meu tempo livre gosto de estudar, ler e assisto algumas séries e filmes de ficção também. Em momentos de lazer gosto de 
-                    curtir com meus amigos ou até mesmo fazer eventos como hobby ou freelance.
+                    curtir com meus amigos e família.
                 </p>
             </div>
         </section>

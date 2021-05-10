@@ -12,7 +12,7 @@ const Experience = () => {
             <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
                 <div className="resume-content">
                     <h3 className="mb-0">Estagiário de Desenvolvimento</h3>
-                    <div className="subheading mb-3">Evolucional</div>
+                    <div className="subheading mb-3">Evolucional Editora</div>
                     <p>
                         Trabalhei como estagiário na startup Evolucional na área de desenvolvimento, 
                         cuidando e criando as páginas e funções para o sistema interno da empresa.
@@ -26,7 +26,7 @@ const Experience = () => {
             <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
                     <div className="resume-content">
                     <h3 className="mb-0">Desenvolvedor Júnior</h3>
-                    <div className="subheading mb-3">Evolucional</div>
+                    <div className="subheading mb-3">Evolucional Editora</div>
                     <p>
                         Atualmente trabalho como desenvolvedor júnior na startup Evolucional na área de desenvolvimento, 
                         criando e implementando features, telas, API entre outras demandas da empresa.

@@ -8,7 +8,7 @@ import config from '../../config';
 
 import Resume from '../components/sections/Resume';
 import Experience from '../components/sections/Experience';
-import Education from '../components/sections/Education';
+import Formation from '../components/sections/Formation';
 import Skills from '../components/sections/Skills';
 import Interests from '../components/sections/Interests';
 import Awards from '../components/sections/Awards';
@@ -36,7 +36,7 @@ const IndexPage = () => (
 
       <hr className="m-0" />
 
-      <Education/>
+      <Formation/>
 
       <hr className="m-0" />
 
